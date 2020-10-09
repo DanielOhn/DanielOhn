@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there, I am Daniel Ohn 👋
+### I'm just a boi who loves to code
 <!--
 **DanielOhn/DanielOhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
