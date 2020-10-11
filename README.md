@@ -1,16 +1,33 @@
-## Hi there, I am Daniel Ohn 👋
-### I'm just a boi who loves to code
-<!--
-**DanielOhn/DanielOhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://media1.tenor.com/images/b1568040b7983be6c7f8bce94caf8f21/tenor.gif?itemid=1179762"></p>
+```
+{
+   "person":{
+      "name":"Daniel Ohn",
+      "description":"Just a boi who loves to code!",
+      "hobbies":[
+         "Coding",
+         "Dungeons & Dragons",
+         "Skating",
+         "Guitar",
+         "Games"
+      ],
+      "language_specialty":[
+         "JavaScript",
+         "React",
+         "ExpressJS",
+         "NodeJS",
+         "MongoDB"
+      ],
+      "occupation":"Currently looking!",
+      "dream_job":"Fullstack Developer",
+      "contact":[
+         {
+            "twitter":"@ohndaniel_"
+         },
+         {
+            "email":"ohndaniel@gmail.com"
+         }
+      ]
+   }
+}
+```
