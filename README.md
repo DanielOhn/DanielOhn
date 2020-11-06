@@ -19,7 +19,7 @@
          "NodeJS",
          "MongoDB"
       ],
-      "occupation":"Currently looking!",
+      "occupation":"Information Technology",
       "dream_job":"Fullstack Developer",
       "contact":[
          {
