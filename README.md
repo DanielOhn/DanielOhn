@@ -17,13 +17,14 @@
          "React",
          "ExpressJS",
          "NodeJS",
-         "MongoDB"
+         "Postgres",
+         "Python"
       ],
       "occupation":"Information Technology",
-      "dream_job":"Fullstack Developer",
+      "dream_job":"Software Engineer",
       "contact":[
          {
-            "twitter":"@ohndaniel_"
+            "twitter":"@greatxcatsby"
          },
          {
             "email":"ohndaniel@gmail.com"
