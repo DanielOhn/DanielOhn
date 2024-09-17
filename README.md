@@ -4,28 +4,9 @@
 {
    "person":{
       "name":"Daniel Ohn",
-      "description":"Just a boi who loves to code!",
-      "hobbies":[
-         "Coding",
-         "Dungeons & Dragons",
-         "Skating",
-         "Guitar",
-         "Games"
-      ],
-      "language_specialty":[
-         "JavaScript",
-         "React",
-         "ExpressJS",
-         "NodeJS",
-         "Postgres",
-         "Python"
-      ],
-      "occupation":"Information Technology",
-      "dream_job":"Software Engineer",
+      "description":"Just a coder who likes to make websites and games",
+      "occupation":"Software Engineer",
       "contact":[
-         {
-            "twitter":"@greatxcatsby"
-         },
          {
             "email":"ohndaniel@gmail.com"
          }
